@@ -1,0 +1,156 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Admin Bug Report\n"
+"POT-Creation-Date: 2021-01-30 12:27-0500\n"
+"PO-Revision-Date: 2021-01-30 12:27-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: admin-bug-report.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: admin/assets/src/js/bug-report.js:69
+msgid "Thank you!"
+msgstr ""
+
+#: admin/assets/src/js/bug-report.js:70
+msgid "We'll review and resolve your issue as soon as we can!"
+msgstr ""
+
+#: admin/assets/src/js/bug-report.js:73
+msgid "Oh no!"
+msgstr ""
+
+#: admin/assets/src/js/bug-report.js:74
+msgid "It looks like your submission was not sent."
+msgstr ""
+
+#: admin/assets/src/js/bug-report.js:105
+msgid "Plugin Not Configured!"
+msgstr ""
+
+#: admin/assets/src/js/bug-report.js:106
+msgid ""
+"Some settings are required before using this plugin. <a href=\"$s\">Click "
+"here</a> to update the settings."
+msgstr ""
+
+#: admin/assets/src/js/bug-report.js:115
+msgid "Report Bug"
+msgstr ""
+
+#: admin/assets/src/js/bug-report.js:120
+msgid ""
+"Please provide as much detail as possible. You may include a screenshot by "
+"clicking the camera icon below."
+msgstr ""
+
+#: admin/assets/src/js/bug-report.js:131
+msgid "Submit Report"
+msgstr ""
+
+#: admin/assets/src/js/bug-report.js:141
+msgid "Close"
+msgstr ""
+
+#: admin/assets/src/js/components/LoadingEllipses.js:6
+msgid "Processing"
+msgstr ""
+
+#: admin/assets/src/js/settings.js:74
+#: admin/class-admin-bug-report-admin.php:173
+#: admin/class-admin-bug-report-admin.php:192
+msgid "Admin Bug Report Settings"
+msgstr ""
+
+#: admin/assets/src/js/settings.js:88
+msgid "Settings saved!"
+msgstr ""
+
+#: admin/assets/src/js/settings.js:93
+msgid "General"
+msgstr ""
+
+#: admin/assets/src/js/settings.js:98
+msgid "Email Recipient"
+msgstr ""
+
+#: admin/assets/src/js/settings.js:108
+msgid "Email Subject"
+msgstr ""
+
+#: admin/assets/src/js/settings.js:117
+msgid "Include Debug Information?"
+msgstr ""
+
+#: admin/assets/src/js/settings.js:132
+msgid "Save"
+msgstr ""
+
+#: admin/class-admin-bug-report-admin.php:159
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: admin/class-admin-bug-report-admin.php:174
+#: admin/class-admin-bug-report-admin.php:193
+msgid "Admin Bug Report"
+msgstr ""
+
+#: admin/class-admin-bug-report-admin.php:377
+msgid "A new bug report has been submitted!"
+msgstr ""
+
+#: admin/class-admin-bug-report-admin.php:379
+#, php-format
+msgid "Site:  %s"
+msgstr ""
+
+#: admin/class-admin-bug-report-admin.php:385
+#, php-format
+msgid "Username:  %s"
+msgstr ""
+
+#: admin/class-admin-bug-report-admin.php:386
+#, php-format
+msgid "Email:  %s"
+msgstr ""
+
+#: admin/class-admin-bug-report-admin.php:390
+msgid "User Message:"
+msgstr ""
+
+#: admin/class-admin-bug-report-admin.php:396
+msgid "Debugging Information"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/admin-bug-report/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A small plugin to help your WordPress clients report bugs and issues "
+"directly from the admin."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "David B"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://dream-encode.com"
+msgstr ""
